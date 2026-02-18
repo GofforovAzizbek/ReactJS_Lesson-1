@@ -4,6 +4,7 @@ const Count = () => {
   return (
     <div className="count-app">
       <div className="app-buttons">
+        <p>Tasbeh</p>
         <h1 className="app-title2 ">{count}</h1>
         <div className="app-button-wrapper ">
           <button
