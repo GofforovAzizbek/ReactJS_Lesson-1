@@ -4,8 +4,8 @@ const Count = () => {
   return (
     <div className="count-app">
       <div className="app-buttons">
-        <p>Tasbeh</p>
-        <h1 className="app-title2 ">{count}</h1>
+        <h1 className="text-[25px] text-[white]">Tasbeh</h1>
+        <h2 className="app-title2 ">{count}</h2>
         <div className="app-button-wrapper ">
           <button
             className="text"

@@ -23,7 +23,7 @@ const Navbar = () => {
               name="search"
               id="search"
               placeholder="Search"
-              className="search "
+              className="search outline-0"
             />
           </div>
           <ul className="nav-list ">
