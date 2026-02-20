@@ -19,7 +19,7 @@
   @apply py-[10px] px-[25px] text-2xl text-[#404756] bg-[#58c4dc] rounded-full flex items-center justify-center font-medium cursor-pointer;
 }
 .app-button2 {
-  @apply py-[10px] px-[25px] text-2xl text-[white] rounded-full flex items-center justify-center font-medium border-1 border-[#3f4655] cursor-pointer;
+  @apply py-[10px] px-[25px] text-2xl text-[white] rounded-full flex items-center justify-center font-medium cursor-pointer;
 }
 .app-button-wrapper {
   @apply flex items-center justify-center gap-[10px];
@@ -55,5 +55,5 @@
 }
 
 .count-app {
-  @apply pt-[100px] border-1 border-t-gray-600 mt-[20px];
+  @apply pt-[100px] border-t-gray-600 mt-[20px];
 }
