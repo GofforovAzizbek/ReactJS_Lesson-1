@@ -18,7 +18,7 @@ const Count = () => {
               }
             }}
           >
-            Count
+            Point
           </button>
           <button
             className="text"
@@ -26,7 +26,7 @@ const Count = () => {
               setCount(0);
             }}
           >
-            Delete
+            Restart
           </button>
         </div>
       </div>
